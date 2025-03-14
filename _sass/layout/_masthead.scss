@@ -48,7 +48,7 @@
 
 .masthead__menu-item {
   background-color: var(--global-bg-color);
-  display: block;
+  // display: block;
   list-style-type: none;
   white-space: nowrap;
 
@@ -56,4 +56,12 @@
     padding-right: 2em;
     font-weight: 700;
   }
+
+  display: inline-flex !important; 
+  align-items: baseline;
+
+  svg {
+    margin-left: 0.15em;
+  }
 }
+

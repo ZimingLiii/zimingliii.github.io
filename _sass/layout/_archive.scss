@@ -27,6 +27,15 @@
   }
 }
 
+.archive__item {
+
+  margin-bottom: 3.5em;
+
+  p {
+    margin-left: 1em;
+  }
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
@@ -79,9 +88,9 @@
     box-shadow: 0 0 10px rgba(#000, 0.25);
   }
 
-  .archive__item-title {
-    text-decoration: underline;
-  }
+  // .archive__item-title {
+  //   text-decoration: underline;
+  // }
 }
 
 
