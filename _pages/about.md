@@ -13,6 +13,4 @@ My research focuses on integrating Large Language Model (LLM)-driven agents with
 
 I'm a member of the [CAIR](https://cair.rit.edu) (Center for Accessibility and Inclusion Research) Lab and the [AIR](https://www.ritairlab.org) (Accessible and Immersive Realities) Lab. I am passionate about applying cutting-edge technology to develop accessible and inclusive tools, especially in VR.
 
-Beyond academia, I’m also a novelist, game designer, and web developer. I enjoy crafting immersive narratives, interactive experiences, and digital arts.
-
-Feel free to reach out if you're interested in collaboration, research discussions, or have any inquiries!
+Beyond academia, I’m also a digital media artist, designer, and Chinese-language writer. I enjoy crafting immersive narratives, interactive experiences, and digital artworks.
