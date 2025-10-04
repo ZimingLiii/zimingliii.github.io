@@ -11,5 +11,6 @@ header:
 slidesurl: ''
 paperurl: 'https://dl.acm.org/doi/10.1145/3698882'
 videourl: ''
+codeurl: 'https://github.com/ZimingLiii/SoundVizVR-Plugin'
 authors: '**Ziming Li**, Roshan L. Peiris'
 ---

@@ -73,7 +73,7 @@
           <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
           {% endif %}
 
-          {% if post.paperurl or post.slidesurl or post.videourl %}
+          {% if post.paperurl or post.slidesurl or post.videourl or post.codeurl %}
           <p>
             {% assign sep = '' %}
             {% if post.paperurl and post.paperurl != "" %}
@@ -83,7 +83,10 @@
               {{ sep }}<a href="{{ post.slidesurl }}" target="_blank" rel="noopener noreferrer">Presentation</a>{% assign sep = ' | ' %}
             {% endif %}
             {% if post.videourl and post.videourl != "" %}
-              {{ sep }}<a href="{{ post.videourl }}" target="_blank" rel="noopener noreferrer">Video</a>
+              {{ sep }}<a href="{{ post.videourl }}" target="_blank" rel="noopener noreferrer">Video</a>{% assign sep = ' | ' %}
+            {% endif %}
+            {% if post.codeurl and post.codeurl != "" %}
+              {{ sep }}<a href="{{ post.codeurl }}" target="_blank" rel="noopener noreferrer">Source Code</a>
             {% endif %}
           </p>
           {% endif %}
