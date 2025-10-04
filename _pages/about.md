@@ -13,7 +13,7 @@ My research lies in the domains of Human-Computer Interaction (HCI), Virtual Rea
 
 I'm a member of the [CAIR](https://cair.rit.edu){:target="_blank" rel="noopener noreferrer"} (Center for Accessibility and Inclusion Research) Lab and the [AIR](https://www.ritairlab.org){:target="_blank" rel="noopener noreferrer"} (Accessible and Immersive Realities) Lab. I am passionate about applying cutting-edge technology to develop accessible and inclusive tools, especially in VR.
 
-Beyond academia, I’m also a web and game programmer, designer, and Chinese-language writer. I enjoy crafting immersive narratives and interactive experiences.
+Beyond academia, I’m also a web and VR/game programmer 🎮, designer 🎨, and Chinese-language writer ✍️. I enjoy crafting immersive narratives and interactive experiences.
 
 ## Publications
 
