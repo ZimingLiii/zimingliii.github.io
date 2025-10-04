@@ -5,8 +5,11 @@ category: manuscripts
 excerpt: ''
 date: 2024-12-06
 venue: 'ACM Transactions on Accessible Computing (TACCESS)'
+venue_short: "TACCESS"
+header:
+    teaser: '/teasers/2024-taccess-soundvizvr-games.png'
 slidesurl: ''
 paperurl: 'https://dl.acm.org/doi/10.1145/3698882'
 videourl: ''
-authors: 'Ziming Li, Roshan L. Peiris'
+authors: '**Ziming Li**, Roshan L. Peiris'
 ---

@@ -4,7 +4,10 @@ collection: publications
 category: manuscripts
 excerpt: ''
 date: 2021-07-05
-venue: 'Frameless'
+venue: 'Frameless Vol. 3 (Article)'
+venue_short: "Frameless Journals"
+header:
+    teaser: '/teasers/2021-frameless-rotateentry.png'
 slidesurl: ''
 paperurl: 'https://repository.rit.edu/frameless/vol3/iss1/21/'
 videourl: ''

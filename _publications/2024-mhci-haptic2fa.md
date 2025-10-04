@@ -5,8 +5,11 @@ category: manuscripts
 excerpt: ''
 date: 2024-09-24
 venue: 'Proceedings of the ACM on Human-Computer Interaction, Volume 8, Issue MHCI'
+venue_short: "MobileHCI'24"
+header:
+    teaser: '/teasers/2024-mhci-haptic2fa.jpeg'
 slidesurl: 'https://www.youtube.com/watch?v=NwBu5j7ueY0'
 paperurl: 'https://dl.acm.org/doi/10.1145/3676509'
 videourl: ''
-authors: 'Palavi V. Bhole, Ziming Li, Shivang Bokolia, Tae Oh, Garreth W. Tigwell, Roshan L. Peiris'
+authors: 'Palavi V. Bhole, **Ziming Li**, Shivang Bokolia, Tae Oh, Garreth W. Tigwell, Roshan L. Peiris'
 ---

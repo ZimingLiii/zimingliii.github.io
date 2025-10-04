@@ -7,20 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 👋 I'm **Ziming Li**, currently a Ph.D. candidate in Computing and Information Sciences at Rochester Institute of Technology (RIT), advised by Dr. [Roshan Peiris](https://www.roshanpeiris.com/).
+Hello! 👋 I'm **Ziming Li**, currently a Ph.D. candidate in Computing and Information Sciences at Rochester Institute of Technology (RIT), advised by Dr. [Roshan Peiris](https://www.roshanpeiris.com/){:target="_blank" rel="noopener noreferrer"}.
 
-My research focuses on integrating Large Language Model (LLM)-driven agents within Virtual Reality (VR) environments. I explore their potential applications in everyday communication scenarios and training programs, particularly targeting individuals with intellectual and developmental disabilities (IDD).
+My research lies in the domains of Human-Computer Interaction (HCI), Virtual Reality (VR), and Accessibility. I focus on integrating Large Language Model (LLM)-driven agents into VR environments and exploring their potential in everyday communication scenarios and training programs, particularly for individuals with intellectual and developmental disabilities (IDDs).
 
-I'm a member of the [CAIR](https://cair.rit.edu) (Center for Accessibility and Inclusion Research) Lab and the [AIR](https://www.ritairlab.org) (Accessible and Immersive Realities) Lab. I am passionate about applying cutting-edge technology to develop accessible and inclusive tools, especially in VR.
+I'm a member of the [CAIR](https://cair.rit.edu){:target="_blank" rel="noopener noreferrer"} (Center for Accessibility and Inclusion Research) Lab and the [AIR](https://www.ritairlab.org){:target="_blank" rel="noopener noreferrer"} (Accessible and Immersive Realities) Lab. I am passionate about applying cutting-edge technology to develop accessible and inclusive tools, especially in VR.
 
-Beyond academia, I’m also a digital media artist, designer, and Chinese-language writer. I enjoy crafting immersive narratives, interactive experiences, and digital artworks.
+Beyond academia, I’m also a web and game programmer, designer, and Chinese-language writer. I enjoy crafting immersive narratives and interactive experiences.
 
 ## Publications
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap"><i>You can also find my articles on my Google Scholar <a href="{{site.author.googlescholar}}">profile</a>.</i></div>
+<!-- {% if site.author.googlescholar %}
+  <div class="wordwrap"><i>You can also find my articles on my Google Scholar <a href="{{site.author.googlescholar}}" target="_blank" rel="noopener noreferrer">profile</a>.</i></div>
   <br>
-{% endif %}
+{% endif %} -->
 
 {% include base_path %}
 

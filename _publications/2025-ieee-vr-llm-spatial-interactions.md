@@ -5,8 +5,11 @@ category: conferences
 excerpt: ''
 date: 2025-03-12
 venue: 'IEEE conference on virtual reality and 3D user interfaces (VR)'
+venue_short: "IEEE VR'25"
+header:
+    teaser: '/teasers/2025-ieee-vr-llm-spatial-interactions.png'
 slidesurl: 'https://www.youtube.com/watch?v=Q0FJbH-YmJM'
 paperurl: 'https://ieeexplore.ieee.org/document/10937341'
 videourl: 'https://www.youtube.com/watch?v=lxX38PiXScM'
-authors: 'Ziming Li, Huadong Zhang, Chao Peng, Roshan L. Peiris'
+authors: '**Ziming Li**, Huadong Zhang, Chao Peng, Roshan L. Peiris'
 ---

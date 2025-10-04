@@ -5,8 +5,11 @@ category: conferences
 excerpt: ''
 date: 2023-04-19
 venue: 'Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems'
+venue_short: "CHI’23"
+header:
+    teaser: '/teasers/2023-chi-haptic-captioning.png'
 slidesurl: 'https://www.youtube.com/watch?v=GeKdGrS57kI'
 paperurl: 'https://dl.acm.org/doi/10.1145/3544548.3581076'
 videourl: ''
-authors: 'Yiwen Wang, Ziming Li, Pratheep Kumar Chelladurai, Wendy Dannels, Tae Oh, Roshan L. Peiris'
+authors: 'Yiwen Wang, **Ziming Li**, Pratheep Kumar Chelladurai, Wendy Dannels, Tae Oh, Roshan L. Peiris'
 ---

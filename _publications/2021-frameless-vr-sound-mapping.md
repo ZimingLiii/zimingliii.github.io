@@ -4,9 +4,12 @@ collection: publications
 category: manuscripts
 excerpt: ''
 date: 2021-10-01
-venue: 'Frameless'
+venue: 'Frameless Journals Vol. 4 (Research Abstract)'
+venue_short: "Frameless Journals (Abstract)"
+header:
+    teaser: '/teasers/2021-frameless-vr-sound-mapping.png'
 slidesurl: ''
 paperurl: 'https://repository.rit.edu/frameless/vol4/iss1/10/'
 videourl: ''
-authors: 'Ziming Li, Roshan L. Peiris'
+authors: '**Ziming Li**, Roshan L. Peiris'
 ---
