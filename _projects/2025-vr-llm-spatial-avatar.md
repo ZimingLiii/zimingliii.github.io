@@ -8,6 +8,10 @@ collection: projects
 
 This project explores how Large Language Model (LLM) agents can bring more intelligence and realism to human–AI interactions in Virtual Reality. Instead of limiting AI avatars to simple voice-based responses, the system enables them to understand their surroundings and react dynamically to environmental and interaction cues within VR. By defining a structured text-based schema that represents virtual spaces and interactive elements, the project allows AI avatars to generate contextually relevant behaviors and dialogue that reflect what they perceive in their virtual environments.
 
+## Project Team
+
+Ziming Li, Huadong Zhang, Dr. Chao Peng, Dr. Roshan Peiris
+
 ## Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lxX38PiXScM?si=N_3MVjuOKQ83xZ5W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

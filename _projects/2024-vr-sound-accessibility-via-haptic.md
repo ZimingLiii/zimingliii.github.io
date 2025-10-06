@@ -8,6 +8,10 @@ collection: projects
 
 Spatial audio in virtual reality enhances immersion and conveys vital information about the environment, but for Deaf and Hard-of-Hearing (DHH) users, these cues often remain inaccessible. SoundHapticVR addresses this challenge through a head-based haptic feedback system that transforms audio signals into tactile sensations using multi-channel acoustic haptic actuators.
 
+## Project Team
+
+Pratheep Kumar Chelladurai, Ziming Li, Maximilian Weber, Dr. Tae Oh, Dr. Roshan Peiris
+
 ## Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6WXaSGGomZI?si=KrMdwcKE7gcAyVgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

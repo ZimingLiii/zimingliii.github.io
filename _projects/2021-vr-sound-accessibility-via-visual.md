@@ -6,6 +6,10 @@ header:
 collection: projects
 ---
 
+## Project Team
+
+Ziming Li, Shannon Connell, Dr. Wendy Dannels, Dr. Kristen Shinohara, Dr. Roshan Peiris
+
 ## SoundVizVR System
 
 This project explores how visual cues can make sound-based information in VR more accessible to Deaf and Hard-of-Hearing (DHH) users. In typical VR experiences, sounds carry key details about space, interaction, and immersion. However, when sound is inaccessible, users may lose important contextual information.

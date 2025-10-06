@@ -10,6 +10,9 @@ Two-Factor Authentication (2FA) strengthens digital security by adding an extra 
 
 To address these challenges, we developed Haptic2FA, a haptic-based authentication method that replaces visual or auditory verification codes with unique vibration patterns. During the authentication process, users receive a distinct “haptic passcode” that they must reproduce or select for identity verification, offering a secure and accessible alternative to traditional 2FA.
 
+## Project Team
+
+Palavi Bhole, Ziming Li, Shivang Bokolia, Dr. Tae Oh, Dr. Garreth Tigwell, Dr. Roshan Peiris
 
 ## Related Publication
 

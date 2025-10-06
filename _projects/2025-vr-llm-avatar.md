@@ -10,6 +10,10 @@ This project focuses on supporting autistic individuals in developing essential 
 
 Furthermore, using a web-based (Node.js) platform, non-tech-savvy users, such as job coaches, can easily create or customize new training situations by entering text prompts, allowing flexible adaptation to individual trainee needs.
 
+## Project Team
+
+Ziming Li, Pinaki Prasanna Babar, Mike Barry, Dr. Roshan Peiris
+
 ## Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QxrWvAFvjEY?si=dif5DT2UpjBZsJLh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
