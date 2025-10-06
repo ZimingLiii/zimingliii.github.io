@@ -2,7 +2,7 @@
 title: "Gen-AI Avatars in Virtual Reality for Job Communication Training"
 excerpt: "LLM, VR, accessibility"
 header:
-    teaser: '/projects/research projects/2024-chi-lbw-vr-llm-autistic-training-2.png'
+    teaser: '/projects/research projects/2024-chi-lbw-vr-llm-autistic-training-1.png'
 collection: projects
 ---
 
