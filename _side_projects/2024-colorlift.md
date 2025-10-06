@@ -15,7 +15,7 @@ This project aims to make color communication easier for everyone. It provides m
 
 ***Source Code:*** <a href="https://github.com/Reedo0910/ColorLift" target="_blank" rel="noopener noreferrer">Github Repository</a>
 
-***Documentation (English):*** <a href="[/files/projects/fix-the-game/FixTheGame.zip](https://github.com/Reedo0910/ColorLift/blob/master/docs/README_EN.md)" target="_blank" rel="noopener noreferrer">View</a>
+***Documentation (English):*** <a href="https://github.com/Reedo0910/ColorLift/blob/master/docs/README_EN.md" target="_blank" rel="noopener noreferrer">View File</a>
 
 <img src='/images/projects/side projects/colorlift/colorlift-1.png'>
 
