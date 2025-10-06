@@ -2,13 +2,15 @@
 title: "Gen-AI Avatars in Virtual Reality for Job Communication Training"
 excerpt: "LLM, VR, accessibility"
 header:
-    teaser: '/teasers/2024-chi-lbw-vr-llm-autistic-training-1.png'
+    teaser: '/projects/research projects/2024-chi-lbw-vr-llm-autistic-training-2.png'
 collection: projects
 ---
 
 This project focuses on supporting autistic individuals in developing essential job communication skills through an immersive Virtual Reality training system. The application features AI-powered avatars that act as conversational partners, using Large Language Models such as GPT-3.5 Turbo to simulate real-world workplace scenarios. Users interact with these avatars through speech, engaging in customer service conversations and other job-related exchanges. 
 
 Furthermore, using a web-based (Node.js) platform, non-tech-savvy users, such as job coaches, can easily create or customize new training situations by entering text prompts, allowing flexible adaptation to individual trainee needs.
+
+<img src="/images/projects/research projects/2024-chi-lbw-vr-llm-autistic-training-2.png">
 
 ## Project Team
 
