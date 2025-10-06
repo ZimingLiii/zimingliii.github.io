@@ -5,8 +5,9 @@
 # prevent it from being included in the site.
 
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /#publications
+    id: 'publications'
 
   # - title: "Talks"
   #   url: /talks/    
@@ -14,14 +15,20 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  # - title: "Projects"
-  #   url: /projects/
+  - title: "Projects"
+    url: /#research-projects
+    id: 'projects'
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+
+  - title: "Creative Works"
+    url: /#creative-works
+    id: 'creative_works'
     
   - title: "CV"
     url: /files/cv/CV___Ziming_Li.pdf
+    id: ''
     
   # - title: "Guide"
   #   url: /markdown/

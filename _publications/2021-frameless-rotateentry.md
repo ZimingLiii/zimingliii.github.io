@@ -10,6 +10,6 @@ header:
     teaser: '/teasers/2021-frameless-rotateentry.png'
 slidesurl: ''
 paperurl: 'https://repository.rit.edu/frameless/vol3/iss1/21/'
-videourl: ''
+videourl: 'https://www.youtube.com/watch?v=vYBXWyidsOc'
 authors: 'Ziming Li, Roshan L. Peiris'
 ---

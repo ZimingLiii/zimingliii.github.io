@@ -11,6 +11,6 @@ header:
 slidesurl: ''
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3517428.3544817'
 videourl: 'https://www.youtube.com/watch?v=Yn1pe2mMHnA&t=7s'
-codeurl: 'https://github.com/Reedo0910/Sound-VR2/releases/tag/v2.6.2'
+codeurl: 'https://github.com/Reedo0910/Sound-VR2'
 authors: '**Ziming Li**, Shannon Connell, Wendy Dannels, Roshan L. Peiris'
 ---

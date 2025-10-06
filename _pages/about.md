@@ -31,6 +31,44 @@ Beyond academia, I’m also a web and VR/game programmer 🎮, designer 🎨, an
   {% endfor %}
 {% endif %}
 
-## Projects
+## Research Projects
 
-<div class="wordwrap"><i>Visit my <a href="https://www.ritairlab.org/team/ziming-li" target="_blank" rel="noopener noreferrer">profile</a> on our lab website to learn more about my projects.</i></div>
+<!-- <div class="wordwrap"><i>Visit my <a href="https://www.ritairlab.org/team/ziming-li" target="_blank" rel="noopener noreferrer">profile</a> on our lab website to learn more about my projects.</i></div> -->
+
+<div></div>
+
+{% include base_path %}
+
+<!-- New style rendering if publication categories are defined -->
+
+<div class="grid-container">
+  {% for post in site.projects reversed %}
+    {% include archive-single-project.html %}
+  {% endfor %}
+</div>
+
+## Creative Works
+
+> Non-academic creative projects
+
+### Games
+
+{% include base_path %}
+
+<div class="grid-container">
+  {% for post in site.game_projects reversed %}
+    {% include archive-single-project.html %}
+  {% endfor %}
+</div>
+
+
+### Apps
+
+{% include base_path %}
+
+<div class="grid-container">
+  {% for post in site.side_projects reversed %}
+    {% include archive-single-project.html %}
+  {% endfor %}
+</div>
+
