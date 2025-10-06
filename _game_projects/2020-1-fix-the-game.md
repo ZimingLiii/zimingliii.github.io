@@ -1,6 +1,6 @@
 ---
 title: '"Fix the Game"'
-excerpt: ""
+excerpt: "party game, multi-player"
 header:
     teaser: '/projects/game%20projects/2020-1-fix-the-game/fix-the-game-screenshot-3.png'
 collection: game_projects

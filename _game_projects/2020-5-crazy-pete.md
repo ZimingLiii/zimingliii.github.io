@@ -1,6 +1,6 @@
 ---
 title: '"Crazy Pete’s Space Deals"'
-excerpt: ""
+excerpt: "business simulation"
 header:
     teaser: '/projects/game projects/2020-5-crazy-pete/crazy-pete-screenshot-2.png'
 collection: game_projects

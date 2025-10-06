@@ -1,6 +1,6 @@
 ---
 title: '"Pave the Way"'
-excerpt: ""
+excerpt: "strategy, endless runner"
 header:
     teaser: '/projects/game projects/2020-4-pave-the-way/pave-the-way-screenshot-2.png'
 collection: game_projects

@@ -1,6 +1,6 @@
 ---
 title: '"Paint War"'
-excerpt: ""
+excerpt: "combat, multi-player"
 header:
     teaser: '/projects/game projects/2020-3-paint-war/paint-war-screenshot-1.png'
 collection: game_projects
