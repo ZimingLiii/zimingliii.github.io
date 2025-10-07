@@ -5,6 +5,10 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "CV"
+    url: /files/cv/CV___Ziming_Li.pdf
+    id: ''
+    
   - title: "Publications"
     url: /#publications
     id: 'publications'
@@ -25,10 +29,6 @@ main:
   - title: "Creative Works"
     url: /#creative-works
     id: 'creative_works'
-    
-  - title: "CV"
-    url: /files/cv/CV___Ziming_Li.pdf
-    id: ''
     
   # - title: "Guide"
   #   url: /markdown/
