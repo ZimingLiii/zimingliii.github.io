@@ -11,5 +11,5 @@ header:
 slidesurl: ''
 paperurl: 'https://repository.rit.edu/frameless/vol3/iss1/21/'
 videourl: 'https://www.youtube.com/watch?v=vYBXWyidsOc'
-authors: 'Ziming Li, Roshan L. Peiris'
+authors: '**Ziming Li**, Roshan L. Peiris'
 ---
