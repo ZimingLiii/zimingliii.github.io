@@ -5,7 +5,7 @@ category: manuscripts
 excerpt: ''
 date: 2024-09-24
 venue: 'Proceedings of the ACM on Human-Computer Interaction, Volume 8, Issue MHCI'
-venue_short: "MobileHCI'24"
+venue_short: "PACMHCI"
 header:
     teaser: '/teasers/2024-mhci-haptic2fa.jpeg'
 slidesurl: 'https://www.youtube.com/watch?v=NwBu5j7ueY0'
