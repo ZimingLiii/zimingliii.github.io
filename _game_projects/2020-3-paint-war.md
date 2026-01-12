@@ -16,7 +16,7 @@ Pick up items scattered on the floor to make the chaos even more unpredictable.
 
 Paint, battle, and have fun with your friends!
 
-***Game Executable (Windows)***: <a href="'/files/projects/paint-war/Paint War - Executable.zip'" target="_blank" rel="noopener noreferrer">Download Game</a>
+***Game Executable (Windows)***: <a href="/files/projects/paint-war/Paint War - Executable.zip" target="_blank" rel="noopener noreferrer">Download Game</a>
 
 ## Team Members
 
