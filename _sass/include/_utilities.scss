@@ -562,3 +562,9 @@ a.reversefootnote {
   width: 1rem; /* 16px */
   height: 1rem; /* 16px */
 }
+
+.badge-flex {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
