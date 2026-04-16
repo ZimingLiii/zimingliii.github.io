@@ -5,7 +5,7 @@ category: conferences
 excerpt: ''
 date: 2026-02-26
 venue: 'HCII 2026: International Conference on Human-Computer Interaction'
-venue_short: "HCII '26"
+venue_short: "HCII'26"
 header:
     teaser: '/teasers/2026-hcii-vrsl.png'
 paperurl: ''

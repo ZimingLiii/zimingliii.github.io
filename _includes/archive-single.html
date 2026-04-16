@@ -40,6 +40,9 @@
         {% if post.venue_short %}
           <p class="archive__item-venue small">{{ post.venue_short }}</p>
         {% endif %}
+        {% if post.award %}
+          <p class="archive__item-award small">🏆 {{ post.award }}</p>
+        {% endif %}
 
           <h2 class="archive__item-title" itemprop="headline">
             {% if post.link %}
