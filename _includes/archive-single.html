@@ -37,12 +37,14 @@
     {% endif %}
 
       <div class="archive__item-content">
-        {% if post.venue_short %}
-          <p class="archive__item-venue small">{{ post.venue_short }}</p>
-        {% endif %}
-        {% if post.award %}
-          <p class="archive__item-award small">🏆 {{ post.award }}</p>
-        {% endif %}
+          <div class="flex">
+            {% if post.venue_short %}
+              <p class="archive__item-venue small">{{ post.venue_short }}</p>
+            {% endif %}
+            {% if post.award %}
+              <p class="archive__item-award small">🏆 {{ post.award }}</p>
+            {% endif %}
+          </div>
 
           <h2 class="archive__item-title" itemprop="headline">
             {% if post.link %}
