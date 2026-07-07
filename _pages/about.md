@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 👋 I'm **Ziming Li**. I received my Ph.D. in Computing and Information Sciences at Rochester Institute of Technology (RIT), advised by Dr. [Roshan Peiris](https://www.roshanpeiris.com/){:target="_blank" rel="noopener noreferrer"}. I am an incoming Assistant Professor at BNU-HKBU United International College (UIC).
+Hello! 👋 I'm **Ziming Li**. I received my Ph.D. in Computing and Information Sciences at Rochester Institute of Technology (RIT), advised by Dr. [Roshan Peiris](https://www.roshanpeiris.com/){:target="_blank" rel="noopener noreferrer"}. I am an incoming Assistant Professor at Beijing Normal-Hong Kong Baptist University (BNBU).
 
 My research lies in the domains of Human-Computer Interaction (HCI), Virtual Reality (VR), and Accessibility. I focus on integrating Large Language Model (LLM)-driven agents into VR environments and exploring their potential in everyday communication scenarios and training programs, particularly for individuals with intellectual and developmental disabilities (IDDs).
 
