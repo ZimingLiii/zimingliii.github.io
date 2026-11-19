@@ -8,7 +8,7 @@ venue: 'HCII 2026: International Conference on Human-Computer Interaction'
 venue_short: "HCII'26"
 header:
     teaser: '/teasers/2026-hcii-vrsl.png'
-paperurl: ''
+paperurl: 'https://doi.org/10.1007/978-3-032-29656-6_16'
 videourl: ''
 authors: 'Gauri Umesh Rajmane, **Ziming Li**, Tae Oh, Roshan L. Peiris'
 ---
