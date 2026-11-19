@@ -10,5 +10,6 @@ header:
     teaser: '/teasers/2026-hcii-vrsl.png'
 paperurl: 'https://doi.org/10.1007/978-3-032-29656-6_16'
 videourl: ''
+slidesurl: 'https://www.youtube.com/watch?v=RjglIPZLyfI'
 authors: 'Gauri Umesh Rajmane, **Ziming Li**, Tae Oh, Roshan L. Peiris'
 ---
