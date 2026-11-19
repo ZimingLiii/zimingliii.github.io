@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 👋 I'm **Ziming Li**. I received my Ph.D. in Computing and Information Sciences at Rochester Institute of Technology (RIT), advised by Dr. [Roshan Peiris](https://www.roshanpeiris.com/){:target="_blank" rel="noopener noreferrer"}. I am an incoming Assistant Professor at Beijing Normal-Hong Kong Baptist University (BNBU).
+Hello! 👋 I'm **Ziming Li**, an Assistant Professor in the Game Design Programme, School of Culture and Creativity at Beijing Normal-Hong Kong Baptist University (BNBU). I received my Ph.D. in Computing and Information Sciences from Rochester Institute of Technology (RIT), advised by Dr. [Roshan Peiris](https://www.roshanpeiris.com/){:target="_blank" rel="noopener noreferrer"}.
 
-My research lies in the domains of Human-Computer Interaction (HCI), Virtual Reality (VR), and Accessibility. I focus on integrating Large Language Model (LLM)-driven agents into VR environments and exploring their potential in everyday communication scenarios and training programs, particularly for individuals with intellectual and developmental disabilities (IDDs).
+I work in Human-Computer Interaction (HCI), Game Design, Extended Reality (VR/AR/MR), and Accessibility. I build LLM-driven VR systems for everyday communication and workplace training, especially for people with intellectual and developmental disabilities (IDDs). More recently, I have also been designing mixed reality games and studying player experience.
 
-I'm a member of the [CAIR](https://cair.rit.edu){:target="_blank" rel="noopener noreferrer"} (Center for Accessibility and Inclusion Research) Lab and the [AIR](https://www.ritairlab.org){:target="_blank" rel="noopener noreferrer"} (Accessible and Immersive Realities) Lab. I am passionate about applying cutting-edge technology to develop accessible and inclusive tools, especially in VR.
+During my time at RIT, I was a member of the [CAIR](https://cair.rit.edu){:target="_blank" rel="noopener noreferrer"} (Center for Accessibility and Inclusion Research) Lab and the [AIR](https://www.ritairlab.org){:target="_blank" rel="noopener noreferrer"} (Accessible and Immersive Realities) Lab, developing accessible and inclusive tools across VR and games.
 
 Beyond academia, I’m also a web and VR/game programmer 🎮, designer 🎨, and Chinese-language writer ✍️. I enjoy crafting immersive narratives and interactive experiences.
 
